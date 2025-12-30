@@ -13,5 +13,5 @@ Implementar três serviços da AWS para otimizar recursos e reduzir custos opera
 ## 📊 Resultados simulados
 Redução de aproximadamente **74% nos custos mensais**, comprovada em planilha comparativa anexada ao projeto.
 
-## 📂 Estrutura do repositório
+
 
